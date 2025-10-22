@@ -38,9 +38,9 @@ export default function ProfileScreen() {
         source={
           profile.fileUri
             ? { uri: profile.fileUri }
-            : { uri: "https://github.com/i-davies.png" }
+            : { uri: "https://github.com/LucasMiura.png" }
         }
-        /*source={{ uri: "https://github.com/i-davies.png" }}*/
+        /*source={{ uri: "https://github.com/LucasMiura.png" }}*/
         style={styles.profileImage}
       />
 
